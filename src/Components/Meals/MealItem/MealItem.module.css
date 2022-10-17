@@ -1,0 +1,31 @@
+.meal {
+    display: flex;
+    justify-content: space-between;
+    margin: 1rem;
+    padding-bottom: 1rem;
+    border-bottom: 1px solid rgb(16, 73, 8) ;
+    /* 
+    rgb(38, 102, 30)
+    rgb(16, 73, 8)
+    */
+      }
+  
+  .meal h3 {
+    margin: 0 0 0.25rem 0;
+    font-size: 1.5rem;
+    font-family:'Times New Roman', Times, serif;
+    font-weight: 600;
+    color:bisque;
+  } 
+  
+  .description {
+    font-style: italic;
+    margin-top: o.25rem;
+  }
+  
+  .price {
+    margin-top: 1rem;
+    font-weight: bold;
+    color: #f82f10;
+    font-size: 1.25rem;
+}

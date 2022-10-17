@@ -1,0 +1,24 @@
+@import url(https://fonts.googleapis.com/css?family=Rancho&effect=3d-float);
+
+.summary {
+    text-align: center;
+    max-width: 60rem;
+    width: 90%;
+    margin: auto;
+    margin-top: -16rem;
+    position: relative;
+    background-color: #383838;
+    opacity: 0.9;
+    color: white;
+    border-radius: 15px;
+    padding: 1rem;
+    box-shadow: 0 1px 18px 10px rgba(251, 247, 247, 0.797);
+  }
+  
+  .summary h2 {
+    font-size: 2.5rem;
+    margin-top: 0;
+    color: #f82f10;
+ 
+  text-shadow: 10px 5px 10px rgba(23, 10, 10, 1);
+}
